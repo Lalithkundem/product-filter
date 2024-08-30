@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product-filter/static/css/main.6cadd59e.css",
+    "main.js": "/product-filter/static/js/main.1c655063.js",
+    "index.html": "/product-filter/index.html",
+    "main.6cadd59e.css.map": "/product-filter/static/css/main.6cadd59e.css.map",
+    "main.1c655063.js.map": "/product-filter/static/js/main.1c655063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cadd59e.css",
+    "static/js/main.1c655063.js"
+  ]
+}
