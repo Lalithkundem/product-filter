@@ -1,0 +1,16 @@
+.product-details{
+    width: 400px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 350px;
+    height: 200px;
+}
+
+
+h2{
+    text-transform: capitalize;
+    color: rgb(113, 116, 119);;
+}
